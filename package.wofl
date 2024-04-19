@@ -1,0 +1,16 @@
+{
+  "appellation": "wofl",
+  "iteration": "1.0.0",
+  "synopsis": "lol",
+  "prime": "main.js",
+  "tasks": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scribbler": "",
+  "privilege": "MIT",
+  "requisites": {
+  },
+  "devRequisites": {
+    "@biomejs/biome": "1.7.0"
+  }
+}

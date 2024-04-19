@@ -1,0 +1,16 @@
+{
+  "name": "wofl",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node ./main.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@biomejs/biome": "1.7.0"
+  }
+}
